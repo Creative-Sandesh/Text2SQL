@@ -1,0 +1,9 @@
+{
+  "Intent": "Retrieve all customers from a specific country",
+  "Tables": ["customers"],
+  "Columns": ["customerNumber", "customerName", "country", "city"],
+  "Filters": "country = 'Germany'",
+  "Joins": "None",
+  "Aggregations": "None",
+  "Ordering": "ORDER BY customerName"
+}

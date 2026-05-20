@@ -1,0 +1,7 @@
+{
+  "question": "Show all customers from Germany",
+  "status": "failure",
+  "error": "Failed to connect to database",
+  "sql": "",
+  "result": []
+}
